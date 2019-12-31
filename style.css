@@ -127,32 +127,6 @@ body {
 	letter-spacing: 14px;
 }
 
-.social-media {
-	position: absolute;
-	bottom: 0.5%;
-	transform: translateY(-50%);
-}
-
-.social-media li {
-	display: inline-block;
-	list-style: none;
-	color: grey;
-	padding: 0 10px;
-	font-family: Helvetica;
-	font-size: 12px;
-	font-weight: 100;
-}
-
-.social-media li a {
-	text-decoration: none;
-	color: grey;
-	transition: all 0.2s;
-}
-
-.social-media li a:hover {
-	border-bottom: 1px solid goldenrod;
-}
-
 #rotated {
 	color: #fff;
 	font-family: Helvetica;
